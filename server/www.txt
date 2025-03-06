@@ -1,0 +1,21 @@
+npm i multer@1.4.2
+npm i express
+npm i cors@2.8.5
+npm i body-parser@1.19.0
+npm i mongoose@5.11.9
+ npm i sqlite3
+  npm i knex@2.1.0
+
+npm install nodemon@2.0.6 --save-dev
+
+  npm i concurrently --save-dev
+  https://stackoverflow.com/questions/58070919/how-to-run-one-npm-start-for-two-different-folders-in-my-project-directory
+
+   
+   Reset Table:
+   http://localhost:8080/api/advance/reset
+   http://localhost:8080/api/customer/reset
+   http://localhost:8080/api/booking/reset
+   http://localhost:8080/api/invoice/reset
+   http://localhost:8080/api/invoice_details/reset
+ 

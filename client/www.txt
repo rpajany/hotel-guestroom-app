@@ -1,0 +1,50 @@
+npm i joi-browser
+npm i react-router-dom@4.3.1
+
+npm i react-webcam@7.0.1
+npm i bootstrap@4
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
+
+
+npm install react-icons --save
+
+npm install --save sweetalert2 sweetalert2-react-content
+
+npm i react-flatpickr@3.10.12
+
+https://www.npmjs.com/package/to-words
+npm install to-words --save
+
+npm i react-html-table-to-excel@2.0.0 --force
+
+https://ethanselzer.github.io/react-image-magnify/#/dimensions
+
+https://www.npmjs.com/package/react-image-magnify
+
+
+npm install react-image-magnify --force
+
+import ReactImageMagnify from 'react-image-magnify';
+
+  <td><ReactImageMagnify {...{
+                                                largeImage: {
+                                                    src: data.photo,
+                                                    width: 1200,
+                                                    height: 1800
+                                                },
+                                                smallImage: {
+                                                    alt: 'Wristwatch by Ted Baker London',
+                                                    isFluidWidth: true,
+                                                    src: data.photo,
+
+                                                }
+
+                                            }} style={{ border: '1px solid #ccc', width: '50px', cursor: 'pointer', }} /></td>
+
+
+
+
+                                            npm install react-spinners

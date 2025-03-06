@@ -1,0 +1,22 @@
+.webcam-btn {
+  border-radius: 50px;
+  background-color: #ff6666;
+  padding: 15px;
+  color: white;
+  font-size: 15px;
+}
+
+.noBoarder {
+  border: none;
+}
+
+.hover-zoom {
+  transform: scale(1.25);
+}
+
+@media print {
+  .noprint {
+    visibility: hidden;
+    display: none;
+  }
+}
